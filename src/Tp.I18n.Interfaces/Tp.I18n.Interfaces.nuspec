@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Tp.I18n.Interfaces</id>
+    <owners>Targetprocess</owners>
+    <authors>Targetprocess</authors>
+    <description>
+      Public interfaces for Targetprocess internationalization.
+    </description>
+    <summary>
+      Public interfaces for Targetprocess internationalization.
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://github.com/TargetProcess/Tp.I18n.Interfaces</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <copyright>Copyright Taucraft Ltd 2016</copyright>
+    <dependencies>
+    </dependencies>
+    <references></references>
+    <tags>intl i18n</tags>
+  </metadata>
+</package>

@@ -1,0 +1,15 @@
+# What is EditorConfig? 
+# It's a cross-platform tool-agnostic format for source code editor settings
+# Learn more at http://editorconfig.org
+# Visual Studio extension: https://github.com/editorconfig/editorconfig-visualstudio
+
+# Unfortunately, neither Visual Studio nor R# allow you to define per-solution indentation settings
+# EditorConfig comes in handy when working with multiple solutions with different source code guidelines
+
+root = true
+
+[*]
+trim_trailing_whitespace = true
+
+[*.cs]
+indent_style = space

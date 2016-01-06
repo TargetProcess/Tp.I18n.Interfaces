@@ -15,7 +15,7 @@
     <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
-    <copyright>Copyright Taucraft Ltd 2016</copyright>
+    <copyright>Copyright Taucraft Ltd. 2016</copyright>
     <dependencies>
     </dependencies>
     <references></references>
